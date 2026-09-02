@@ -1,0 +1,10 @@
+GMC, Alice Thompson, 06:00, 14:30
+GMC, Robert Chen, 07:00, 15:30
+GMC, Sarah Jenkins, 08:30, 17:00
+GMC, Michael Ross, 12:00, 20:30
+GMC, Elena Rodriguez, 14:00, 22:30
+Courtesy Clerk, David Wilson, 08:00, 12:00
+Courtesy Clerk, Maria Garcia, 10:00, 16:00
+Courtesy Clerk, Kevin Park, 12:30, 18:30
+Courtesy Clerk, Lisa Miller, 15:00, 21:00
+Courtesy Clerk, James Taylor, 17:00, 23:00
