@@ -24,7 +24,7 @@ Back end GMCs time in/time out. no sweeps or carts
 
 front end GMCs do sweeps and carts
 
-CSRs "in charge" opening CSR for morning, CSR who's off the latest in the evening
+CSRs "in charge" am/pm. opening CSR for morning, CSR who's off the latest in the evening
 
 Opening GMC/Courtesy clerk has carts and sweeps at the same time for the first hour.
 Closing GMC/Courtesy clerk has carts and sweeps for the last hour.
